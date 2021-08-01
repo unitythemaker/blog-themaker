@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "BlogTheMaker",
+  "siteUrl": "https://unity.themaker.blog/",
+  "description": "UnityTheMaker's blog about programming. He tries to refer the important topics and tries to make attractive posts.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hey! I'm Halil Tezcan \"UnityTheMaker\" KARABULUT",
+    "description": "I'm a \"maker\" with Senior Fullstack Web Development & Jr. IoT Engineering skills."
   }
 }
